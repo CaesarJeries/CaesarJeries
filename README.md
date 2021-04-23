@@ -3,7 +3,7 @@
 - :wolf: I love to learn and expirement with new things!
 - :muscle: I welcome challenges. They're the best way to learn.
 - 🌱 I’m currently learning deep learning, and Rust
-- 📫 How to reach me: Available via [email](mailto:caesar.jeries@gmail.com), or [linkedin](https://www.linkedin.com/in/caesar-jeries).  
+- 📫 How to reach me: Available via [email](mailto:caesar.dakwar@outlook.co.il), or [linkedin](https://www.linkedin.com/in/caesar-jeries).  
 
 <!---
 CaesarJeries/CaesarJeries is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
